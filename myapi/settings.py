@@ -43,7 +43,7 @@ THIRD_PARTY_APPS = [
 ]
 
 LOCAL_APPS = [
-    'myapi'
+    'snippets.apps.SnippetsConfig',
 ]
 
 INSTALLED_APPS = LOCAL_APPS + DEFAULT_APPS + THIRD_PARTY_APPS
