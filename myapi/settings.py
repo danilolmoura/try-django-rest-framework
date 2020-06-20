@@ -25,8 +25,7 @@ SECRET_KEY = 'ip#e7qwa$p9m1#rs&2(5oz5p1$awweo81f!59#g=l@fr#j!i@6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['try-django-rest-framework.herokuapp.com']
 
 # Application definition
 DEFAULT_APPS = [
